@@ -1,0 +1,7 @@
+ {
+        "outboundTag": "nowarp",
+        "domain": [
+          "geosite:google"
+        ],
+        "type": "field"
+      },
